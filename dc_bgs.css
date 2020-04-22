@@ -1,0 +1,122 @@
+/*Wallpapers*/
+
+.dcm_bg_color_30040{
+	background-image: radial-gradient(circle farthest-corner at 69% 100%, #5cd0ffb5, #000000)!important;
+}
+.dcm_bg_30040{
+	background: url(https://blockchaincuties.com//static/bg/png/royal23.png)!important;
+	background-size: cover!important;
+}
+.pet_block .dcm_bg_30040{
+	background-size: contain!important;
+}
+a[href='/pet/30040'] .bg_block {
+	background-image: radial-gradient(circle farthest-corner at 69% 100%, #5cd0ffb5, #000000)!important;
+	border-radius: 15px!important;
+}
+a[href='/pet/30040'] .pattern_block {
+	background-image: url(https://blockchaincuties.co/static/bg/royal23.svg),radial-gradient(circle farthest-corner at 69% 100%, #5cd0ffb5, #000000)!important;
+	border-radius: 15px!important;
+}
+#popup_ping .battle-noti-cutie img.pet_card_image[src$='/30040.svg']{
+	background-image: url(https://blockchaincuties.co/static/bg/royal23.svg),radial-gradient(circle farthest-corner at 69% 100%, #5cd0ffb5, #000000)!important;
+	background-size: cover!important;
+}
+a[href='/pet/30040'] .bg_block .pattern_block {
+	background-image: url(https://blockchaincuties.co/static/bg/royal23.svg)!important;
+	border-radius: 15px!important;
+	background-size: contain!important;
+}
+img[src$="/30040.svg"]{
+	filter: hue-rotate(145deg);
+}
+
+
+
+.dcm_bg_color_4444{
+	background-image: radial-gradient(circle farthest-corner at 69% 100%, #8c5cffb5, #000000)!important;
+}
+.dcm_bg_4444{
+	background: url(https://blockchaincuties.com//static/bg/png/royal14.png)!important;
+	background-size: cover!important;
+}
+.pet_block .dcm_bg_4444{
+	background-size: contain!important;
+}
+a[href='/pet/4444'] .bg_block {
+	background-image: radial-gradient(circle farthest-corner at 69% 100%, #8c5cffb5, #000000)!important;
+	border-radius: 15px!important;
+}
+a[href='/pet/4444'] .pattern_block {
+	background-image: url(https://blockchaincuties.co/static/bg/royal14.svg),radial-gradient(circle farthest-corner at 69% 100%, #8c5cffb5, #000000)!important;
+	border-radius: 15px!important;
+}
+#popup_ping .battle-noti-cutie img.pet_card_image[src$='/4444.svg']{
+	background-image: url(https://blockchaincuties.co/static/bg/royal14.svg),radial-gradient(circle farthest-corner at 69% 100%, #8c5cffb5, #000000)!important;
+}
+a[href='/pet/4444'] .bg_block .pattern_block {
+	background-image: url(https://blockchaincuties.co/static/bg/royal14.svg)!important;
+	border-radius: 15px!important;
+	background-size: contain!important;
+}
+
+
+.dcm_bg_color_3582{
+	background-image: radial-gradient(circle farthest-corner at 69% 100%, #91d002, #000000)!important;
+}
+.dcm_bg_3582{
+	background: url(https://blockchaincuties.com//static/bg/png/royal9.png)!important;
+	background-size: cover!important;
+}
+.pet_block .dcm_bg_3582{
+	background-size: contain!important;
+}
+a[href='/pet/3582'] .bg_block {
+	background-image: radial-gradient(circle farthest-corner at 69% 100%, #91d002, #000000)!important;
+	border-radius: 15px!important;
+}
+a[href='/pet/3582'] .pattern_block {
+	background-image: url(https://blockchaincuties.co/static/bg/royal9.svg),radial-gradient(circle farthest-corner at 69% 100%, #91d002, #000000)!important;
+	border-radius: 15px!important;
+}
+#popup_ping .battle-noti-cutie img.pet_card_image[src$='/3582.svg']{
+	background-image: url(https://blockchaincuties.co/static/bg/royal9.svg),radial-gradient(circle farthest-corner at 69% 100%, #91d002, #000000)!important;
+}
+a[href='/pet/3582'] .bg_block .pattern_block {
+	background-image: url(https://blockchaincuties.co/static/bg/royal9.svg)!important;
+	border-radius: 15px!important;
+	background-size: contain!important;
+}
+
+
+.dcm_bg_color_4948{
+	background-image: radial-gradient(circle farthest-corner at 69% 100%, #62d8f3, #225eaf)!important;
+}
+.dcm_bg_4948{
+	background: url(https://blockchaincuties.com//static/bg/png/royal16.png)!important;
+	background-size: cover!important;
+}
+.pet_block .dcm_bg_4948{
+	background-size: contain!important;
+}
+a[href='/pet/4948'] .bg_block {
+	background-image: radial-gradient(circle farthest-corner at 69% 100%, #62d8f3, #225eaf)!important;
+	border-radius: 15px!important;
+}
+a[href='/pet/4948'] .pattern_block {
+	background-image: url(https://blockchaincuties.co/static/bg/royal16.svg),radial-gradient(circle farthest-corner at 69% 100%, #62d8f3, #225eaf)!important;
+	border-radius: 15px!important;
+}
+#popup_ping .battle-noti-cutie img.pet_card_image[src$='/4948.svg']{
+	background-image: url(https://blockchaincuties.co/static/bg/royal16.svg),radial-gradient(circle farthest-corner at 69% 100%, #62d8f3, #225eaf)!important;
+}
+a[href='/pet/4948'] .bg_block .pattern_block {
+	background-image: url(https://blockchaincuties.co/static/bg/royal16.svg)!important;
+	border-radius: 15px!important;
+	background-size: contain!important;
+}
+
+
+.battle-log-item .battle-log-image .bg_block{
+	border-radius: 50%!important;
+}

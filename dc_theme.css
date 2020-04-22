@@ -1,0 +1,1561 @@
+body,
+body a,
+.popup_adventure_header,
+.own_pet_block p strong, .battle-log-text, .pet_header_details_cond.pet_group {
+	color: #CDCDCD !important;
+}
+
+a,
+.achiev-collect-text span {
+	-webkit-transition: all .2s ease-in !important;
+	-moz-transition: all .2s ease-in !important;
+	-o-transition: all .2s ease-in !important;
+	transition: all .2s ease-in !important;
+}
+
+.slick-prev,
+.slick-next {
+	top: calc(50% - 35px) !important;
+}
+
+body,
+#page,
+.pet_section_header,
+.battle-item,
+.pet_name .likes,
+.pet_status,
+#title-tip,
+.baner_adventure_bottom,
+.popup-panel,
+.battlelog-round-wrap .round_header span,
+.battlelog-result-left span,
+.battlelog-result-right span,
+.battlelog-result-mid,
+body.page_adventure_report .profile-search-wrapper,
+.profile-popup,
+.battlelog-action-descr.blv_3,
+.battlelog-action-descr.battlelog-raid-action-descr,
+.lang-drop,
+.battlelog-action-descr.battle-report-score, .battle-report-score,
+.page_achievements_my,
+.at_method_select, #at_popup button, #at_popup_potion button, #at_adventure_open, #at_potion, #at_adventure, #at_adv_cd, #at_adv_pref {
+	background-color: #262626 !important;
+}
+
+.bg_block, .single-page-blue-btn, .blockchain-buy-btn, .all_attribute_item {
+	background-color: transparent;
+}
+
+.battlelog-action-descr.battlelog-raid-action-descr.battlelog-action-bad {
+	background-color: #DC6656 !important;
+	border-color: #DC6656 !important;
+}
+
+.battlelog-action-descr.battlelog-raid-action-descr.battlelog-action-good {
+	background-color: #3CAF6A !important;
+	border-color: #3CAF6A !important;
+}
+
+.battlelog-action-descr {
+	font-size: 15px !important;
+}
+
+.baner_adventure_bottom {
+	border: 2px solid #595959 !important;
+}
+
+.adventure_tooltip, .achiev-showcase .achiev-box:hover, .pet_banner_icons .info_icon:hover,
+#noAchieved:hover, .wallet-buy-button:hover, .reset_group:hover {
+	cursor: pointer !important;
+}
+
+.achiev-box {
+	cursor: initial !important;
+}
+
+.achievement-item {
+	background-color: #242424 !important;
+}
+
+.recent-achiev-wrap, .achievement-item, .page_achievements_my .achiev-showcase {
+	box-shadow: 0 2px 40px 0 rgba(253, 142, 142, 0.5) !important;
+}
+
+.recent-achiev, .page_achievements_my .achiev-showcase,  .header-dropdown .dropdown-menu ul {
+	background: #222222 !important;
+}
+
+.header-dropdown .dropdown-menu{
+	padding-top: 0!important;
+}
+
+.header-dropdown .dropdown-menu::before{
+	display: none;
+}
+
+.achievement-item-bar, .achievement-item-bar-empty, .achievement-item-bar-fill {
+	height: 20px !important;
+}
+
+.achievement-progress-number {
+	line-height: 20px !important;
+}
+
+.blueBtn.disabled:hover, .line_button_.disabled:hover,
+.shop-buy-button-fill .paw-shop-button-disabled:hover {
+	cursor: no-drop !important;
+}
+
+.shop-buy-button-fill .paw-shop-button.paw-shop-button-disabled {
+	background: none !important;
+	border-color: #595959 !important;
+}
+
+.adventure_tooltip[data-cooldown="13"],
+.cooldown_tooltip[data-cooldown="13"] {
+	color: rgb(255, 10, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="12"],
+.cooldown_tooltip[data-cooldown="12"] {
+	color: rgb(255, 45, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="11"],
+.cooldown_tooltip[data-cooldown="11"] {
+	color: rgb(255, 81, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="10"],
+.cooldown_tooltip[data-cooldown="10"] {
+	color: rgb(255, 117, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="9"],
+.cooldown_tooltip[data-cooldown="9"] {
+	color: rgb(255, 153, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="8"],
+.cooldown_tooltip[data-cooldown="8"] {
+	color: rgb(255, 188, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="7"],
+.cooldown_tooltip[data-cooldown="7"] {
+	color: rgb(255, 224, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="6"],
+.cooldown_tooltip[data-cooldown="6"] {
+	color: rgb(249, 255, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="5"],
+.cooldown_tooltip[data-cooldown="5"] {
+	color: rgb(214, 255, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="4"],
+.cooldown_tooltip[data-cooldown="4"] {
+	color: rgb(178, 255, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="3"],
+.cooldown_tooltip[data-cooldown="3"] {
+	color: rgb(142, 255, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="2"],
+.cooldown_tooltip[data-cooldown="2"] {
+	color: rgb(107, 255, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="1"],
+.cooldown_tooltip[data-cooldown="1"] {
+	color: rgb(71, 255, 0) !important;
+}
+
+.adventure_tooltip[data-cooldown="0"],
+.cooldown_tooltip[data-cooldown="0"] {
+	color: rgb(35, 255, 0) !important;
+}
+
+.not_index, .not_index_rel, .landingHeader.landingScrolled, .bottom_panel {
+	border-bottom: 1px solid #222222 !important;
+	box-shadow: 0 1px 0 #262626 !important;
+	background-color: #191919 !important;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#282828), to(#191919)) !important;
+	background-image: -webkit-linear-gradient(top, #282828, #191919) !important;
+	background-image: linear-gradient(top, #282828, #191919) !important;
+	background-repeat: no-repeat;
+}
+
+.raid-description, .footer_blue, .raid-boss-stats-wrap, .raid-boss-progressbar, .raid-boss-progress-wining, .raid-boss-power, .new_raid-info {
+	background: #1C1C1C !important;
+}
+
+.crafting-container {
+	background: linear-gradient(45deg, rgba(40, 12, 55, 1) 0%, rgba(98, 15, 52, 1) 59%, rgb(0, 0, 0) 100%) !important;
+}
+
+.crafting-container .card-wrapper .pet_block.bg_block {
+	background: rgba(255, 255, 255, 0.15) !important;
+}
+
+.crafting-container .paw-shop-buttons .shop-buy-button-fill span:not(.paw-shop-button-disabled), .petSelectBoxOpenHover, .raid-info {
+	border-color: #FD8D8E !important;
+}
+
+.crafting-container .shop-item-data {
+	height: 60px !important;
+}
+
+.crafting-container .paw-shop-button img[src$="ChampionsMark.png"] {
+	height: 30px;
+}
+
+.raid-clock {
+	background: rgba(253, 142, 142, 0.8) !important;
+}
+
+.footer_blue {
+	border-top: 1px solid #181818 !important;
+}
+
+.filter_options_block,
+.InputButtons-input,
+.InputButtons-input[type="text"],
+.form input,
+.form textarea,
+.form select,
+.form button,
+.form-button,
+.cooldown-tooltip,
+.page_items .bg_block,
+.baner_adventure .bg_block.mob_ready_adventure,
+#title-tip div,
+.empty-pet-list-text,
+.board-you-wrap,
+.section-example,
+.achiev-showcase,
+.pet_grid-item.lottery-item .bg_block,
+.shop-item-data,
+.pet_banner_image[src^="/static/items"],
+.pet_card_image[src^="/static/icons"],
+.pet_card_image[src^="/static/items"] {
+	color: #CBCBCB !important;
+	background: #595959 !important;
+}
+
+.board-you-wrap h2,
+.board-you-profile p,
+.board-item-wrap div,
+.achiev-showcase-text,
+.achiev-collect-text {
+	color: #CBCBCB !important;
+}
+
+.likes-hearts > *:not(.likes-count) {
+	padding-left: 52px !important;
+	width: 30px !important;
+	height: 30px !important;
+	overflow: hidden !important;
+}
+
+#convertedItemPriceEnd, #convertedItemPriceStart {
+	position: absolute;
+	right: 0;
+	bottom: -34px;
+}
+
+#title-tip div {
+	border-radius: 5px !important;
+}
+
+#title-tip.tip-v-bot div:after {
+	top: -13px !important;
+	content: "\f0d8" !important;
+}
+
+.likes-heart {
+	background-color: #262626 !important;
+	padding: 5px 2px;
+	border-radius: 5px;
+}
+
+.page_pets_my_market .pet_card_status_auction {
+	color: #000000 !important;
+	font-weight: bold;
+}
+
+.likes-heart:after {
+	content: "\f08a" !important;
+	font-family: FontAwesome !important;
+	color: white !important;
+	font-size: 21px !important;
+	position: absolute !important;
+	right: 26px !important;
+}
+
+.liked .likes-heart:after {
+	content: "\f004" !important;
+	color: #FD8E8E !important;
+}
+
+.pet_banner_icons .likes-heart:after {
+	top: 0 !important;
+}
+
+.pet_banner_icons .likes-hearts > *:not(.likes-count) {
+	max-width: 70px !important;
+}
+
+.quick-slot-mobile-wrap .likes-heart {
+	top: -8px !important;
+}
+
+.likes-count_big.likes-count {
+	z-index: 5;
+	margin-top: -4px;
+	margin-left: -11px;
+	padding-left: 10px;
+	width: 23px;
+	text-align: right;
+}
+
+.cooldown-tooltip,
+.empty-pet-list-text,
+.shop-buy-button-fill span {
+	border-color: #3E3E3E !important;
+	box-shadow: none !important;
+}
+
+.exp_meter {
+	border-color: #595959 !important;
+}
+
+.filters-attr-wrap,
+.view-all-attr,
+.unique-buy-btn:hover {
+	background: #595959 !important;
+	border-color: transparent !important;
+	color: #FD8E8E !important;
+}
+
+.filters-attr-wrap {
+	border-top: 1px solid #2A2A2A !important;
+}
+
+.search-icons[title="Clear"]:hover {
+	color: red !important;
+}
+
+.view-all-attr:hover {
+	background: #2A2A2A !important;
+	color: #CDCDCD !important;
+}
+
+.filter_group h4,
+.pet_card_details_item,
+.InputButtons--searchSmall > .InputButtons-input:focus,
+.InputButtons--searchSmall > .InputButtons-input[type=text]:focus,
+.cooldown-tooltip p,
+.pet-name-change-cancel,
+.pet_name_change_block input[type="text"],
+.pet-name-change-save,
+.settings-checkbox .settings-checkbox-text {
+	color: #CBCBCB !important;
+}
+
+.current-attr,
+.current-attr:hover {
+	color: #CDCDCD !important;
+}
+
+.current-attr:hover {
+	background: #2E2E2E !important;
+}
+
+.filter-button,
+.pet_header_ownerActions .line_button_,
+.activity-view-hash-button,
+.pet_bid-action .line_button_,
+.pet_card-details .line_button_:not(.disabled),
+.adventure_but,
+.battlelog-close-report,
+#noAchieved,
+.button-craft-popup,
+.blockchain-radio-label.promo-radio-label,
+.mass-send-btn,
+.rebuild-groups-btn,
+.empty-pet-list-link {
+	padding: 5px 15px !important;
+	background: #262626 !important;
+	border-radius: 5px !important;
+	color: #FD8E8E !important;
+	line-height: 1.5 !important;
+	border: none !important;
+	-webkit-transition: all .3s ease-in !important;
+	-moz-transition: all .3s ease-in !important;
+	-o-transition: all .3s ease-in !important;
+	transition: all .3s ease-in !important;
+}
+
+.rebuild-groups-btn {
+	margin-left: 0 !important;
+}
+
+.pet_bid-action .line_button_ {
+	line-height: 1 !important;
+}
+
+.activity-view-hash-button {
+	border: none !important;
+	line-height: 38px !important;
+}
+
+.filter-selected.filter-button,
+.filter-button:hover,
+.pet_header_ownerActions .line_button_:hover,
+.line_secetion_end,
+.line_secetion_header,
+.activity-view-hash-button:hover,
+.pet_bid-action .line_button_:hover,
+.Pagination-page.Pagination-page--active,
+.Pagination-page.Pagination-page--active:hover,
+.Pagination-page:hover,
+.Pagination-button:not(.Pagination-button--disabled),
+.adventure_but:hover,
+.battlelog-close-report:hover,
+.board-sel,
+.bord-menu-item a:hover,
+.board-self,
+.main-cta-button,
+.btn_blue,
+.battle-log-view-more-button:hover,
+.blueBtn,
+.shop-buy-button-empty span,
+.lang-drop .lang-single-item:hover,
+.unique-buy-btn,
+.refill-energy,
+.raid-exp-full-meter .exp_filled,
+.achievement-item-points,
+.achievement-item-bar-fill,
+.page_achievements_my .achiev-cog,
+.achiev-box:hover,
+.raid-boss-progress-fill,
+.button-craft-popup:hover,
+.shop-buy-button-fill .paw-shop-button-blue,
+.wallet_btn_blue,
+.cutie-level-type-normal,
+.crafting-container .paw-shop-buttons .shop-buy-button-fill span:not(.paw-shop-button-disabled):hover,
+.blockchain-radio-label.promo-radio-label:hover, .promo-radio-btn:checked + .promo-radio-label, .single-page-blue-btn:hover, .blockchain-buy-btn:hover,
+.achiev-checkmark-wrap input:checked ~ .achiev-checkmark, .settings-checkbox input:checked ~ .settings-checkbox-label,
+.new_raid-player-rank.gold:before, .new_raid-player-rank.silver:before, .new_raid-player-rank.bronze:before,
+.new_raid-pagination-button, .new_raid-pagination-item.active {
+	background: #FD8E8E !important;
+	color: white !important;
+}
+
+.new_raid-pagination-item{
+	background: white;
+	color: #FD8E8E;
+}
+
+.new-raid-page .Container.Container--lg{
+	padding: 0;
+}
+
+.new_page_raid .pet_grid .card-wrapper{
+	background: none;
+}
+
+.new_page_raid .pet_grid .pet_card_status_noble, .page_raid .icon_small.icon_noble{
+	display: none;
+}
+
+img[src="/static/groups/cutieFolder.png"], .group-folder-icon {
+	filter: hue-rotate(110deg);
+}
+
+.openChestSun2.animatedSun2 {
+	filter: hue-rotate(310deg);
+}
+
+.openChestBox .lootItemName {
+	background: rgba(29, 29, 29, 0.7) !important;
+}
+
+.group-list-wrap:hover,
+.pet_card-details .line_button_:not(.disabled):hover,
+.at_method_select:hover, #at_popup button:hover, #at_popup_potion button:hover, #at_adventure_open:hover, #at_adventure_open.active, #at_potion:hover, #at_potion.active,
+.at_method_select.selected, #at_adventure.selected, #at_adv_cd.selected, #at_adv_pref.selected, .mass-send-btn:hover, .rebuild-groups-btn:hover, .item-market-table tr:first-child td, .empty-pet-list-link:hover, .empty-pet-list-block,
+.item-market-header-row, .advPopupNoOverlay, .header-dropdown .dropdown-menu ul li:hover {
+	background: #FD8E8E33 !important;
+}
+
+.pet_card-details .line_button_:not(.disabled),
+.Pagination-button:not(.Pagination-button--disabled),
+.activity-view-hash-button,
+.battlelog-action-s-r .battlelog-action-descr.blv_3,
+.battlelog-action-s-r .battle-report-score,
+.battlelog-action-s-r .battlelog-action-descr.battlelog-raid-action-descr,
+.achiev-tab-wrap,
+.achiev-box,
+.raid-boss-power,
+.button-craft-popup, .single-page-blue-btn, .blockchain-buy-btn,
+.group-list-wrap,
+.mass-send-btn,
+.rebuild-groups-btn,
+.empty-pet-list-link,
+.pet_header_ownerActions .line_button_ {
+	border: 1px solid #FD8E8E !important;
+}
+
+.quest_craft_requirement_item-title{
+	width: 55px;
+	background: #fff3;
+}
+
+.achiev-tab-wrap {
+	border-radius: 8px;
+}
+
+.achiev-tab-item:not(:last-child) {
+	border-right: 1px solid #FD8E8E !important;
+}
+
+.battlelog-action-s-l .battlelog-action-descr.blv_3,
+.battlelog-action-s-l .battle-report-score,
+.battlelog-action-s-l .battlelog-action-descr.battlelog-raid-action-descr {
+	border: 1px solid #8ECFFD !important;
+}
+
+.stat_block_number.tooHigh {
+	background: #B4B4B4 !important;
+}
+
+.stat_block,
+.stat_block_number,
+.board-head > div,
+.clock div:not(.dots),
+body.page_adventure_report .page_wrapper,
+.blueBtn.disabled,
+.blueBtn.disabled:hover,
+.paw-shop-buttons .shop-buy-button-fill span,
+.refill-energy:hover,
+.achiev-tab-item.active, .achiev-tab-item:hover,
+.raid-boss-total,
+.energy-popup-refill-item,
+.wallet_transaction_body{
+	background-color: #595959 !important;
+	color: white !important;
+}
+
+.new_raid-info-main{
+	background-color: #59595938;
+}
+
+.wallet_transaction_body_last {
+	background-color: rgba(253, 141, 142, 0.9) !important;
+}
+
+.raid-boss-total {
+	box-shadow: 0 2px 30px 0 rgb(89, 89, 89) !important;
+}
+
+.pet_grid-item:hover .img_wrapper.bg_block,
+.pet_grid-item:hover .pet_card.bg_block,
+.pet_grid-item:hover .pet_list-item.bg_block {
+	box-shadow: inset 0 0 0 4px #FD8E8E !important;
+	transition: box-shadow .2s, -webkit-box-shadow .2s !important;
+}
+
+.page_quest #not_landing_header .header-navigation .page_halloween,
+.page_quest_craft #not_landing_header .header-navigation .page_pets_my,
+.page_quest_challenge #not_landing_header .header-navigation .page_halloween,
+.page_quest_raid #not_landing_header .header-navigation .page_halloween,
+.page_quest_callendar #not_landing_header .header-navigation .page_halloween,
+.page_adventures #not_landing_header .header-navigation .page_pets_adventure,
+.page_raidboss #not_landing_header .header-navigation .page_pets_adventure,
+.page_presale #not_landing_header .header-navigation .page_presale,
+.page_specialsale #not_landing_header .header-navigation .page_presale,
+.page_items #not_landing_header .header-navigation .page_pets_my,
+.page_item #not_landing_header .header-navigation .page_pets_my,
+.page_pets_sell #not_landing_header .header-navigation .page_pets_sell,
+.page_pets_breed #not_landing_header .header-navigation .page_pets_sell,
+.page_items_sell #not_landing_header .header-navigation .page_pets_sell,
+.page_shop #not_landing_header .header-navigation .page_pets_sell,
+.page_raids .header-navigation .page_pets_slayer,
+.page_pets_adventure #not_landing_header .header-navigation .page_pets_adventure,
+.page_pets_my #not_landing_header .header-navigation .page_pets_my,
+.page_inventory #not_landing_header .header-navigation .page_pets_my,
+.page_mymarket #not_landing_header .header-navigation .page_pets_my,
+.page_my_groups #not_landing_header .header-navigation .page_pets_my,
+.page_pets_my_market #not_landing_header .header-navigation .page_pets_my,
+.page_quest_tributeCraft #not_landing_header .header-navigation .page_pets_my,
+.page_leaderboard #not_landing_header .header-navigation .page_leaderboard,
+.page_pets_generation #not_landing_header .header-navigation .page_pets_sell,
+.page_pets #not_landing_header .header-navigation .page_pets_sell,
+.page_special_sale #not_landing_header .header-navigation .page_special_sale,
+.page_pets_unique #not_landing_header .header-navigation .page_special_sale,
+.page_adventure_report #not_landing_header .header-navigation .page_pets_adventure,
+.page_achievements_my .header-navigation .page_achievements,
+.page_achievements_my #not_landing_header .header-navigation .page_achievements,
+.page_special_sale .filter_tab.page_special_sale,
+.page_my_groups .filter_tab.page_mygroups,
+.page_quest_tributeCraft .filter_tab.page_quest_tribute_craft,
+.page_pets_my_market .filter_tab.page_mycutiemarket,
+.page_adventures .filter_tab.page_adventures,
+.page_raidboss .filter_tab.page_raid,
+.page_inventory .filter_tab.page_items,
+.page_adventure .filter_tab.page_adventures,
+.page_adventure_report .page_adventure_report.page_adventure_report,
+.page_pets_adventure .filter_tab.page_pets_adventure,
+.page_pets_breed .filter_tab.page_pets_breed,
+.page_pets_generation .filter_tab.page_pets_generation,
+.page_pets .filter_tab.page_pets_all,
+.page_pets_sell .filter_tab.page_pets_sell,
+.page_pets_my .filter_tab.page_pets_my,
+.page_item .filter_tab.page_items,
+.page_items .filter_tab.page_items,
+.page_lottery .filter_tab.page_giveaway,
+.page_shop .filter_tab.page_paw_shop,
+.page_pets_unique .filter_tab.page_pets_unique,
+.page_pets_adventure_select .filter_tab.page_pets_adventure,
+.page_items_sell .filter_tab.page_items_sell,
+.page_quest .filter_tab.page_quest,
+.page_quest_challenge .filter_tab.page_quest_challenge,
+.page_quest_craft .filter_tab.page_quest_craft,
+.page_quest_raid .filter_tab.page_quest_raid,
+.page_quest_callendar .filter_tab.page_quest_callendar,
+.page_mymarket .filter_tab.page_mymarket,
+.header-navigation-item:hover,
+.header-login-menu:hover,
+.header-login-menu:hover span,
+.line_button[data-click="send_to_adventure_one_pet"] {
+	color: #FD8E8E !important;
+	border-color: #FD8E8E !important;
+}
+
+.leaderboard-place-number {
+	left: 80px !important;
+}
+
+.leaderboard-cup-img {
+	margin-left: 60px !important;
+}
+
+.leaderboard-cup-img-3, .leaderboard-cup-img-2, .leaderboard-cup-img-1 {
+	top: 8px !important;
+}
+
+.leaderboard-rank-img {
+	left: 58px !important;
+}
+
+.board-item-user img {
+	z-index: 4 !important;
+}
+
+.filter_tab {
+	border-width: 3px !important;
+}
+
+.filter_tab:hover,
+.Pagination-page:hover,
+.bord-menu-item,
+.board-item-wrap,
+.btn_blue,
+.form input,
+.form textarea,
+.form select,
+.form button,
+.form-button,
+.battle-log-view-more-button:hover,
+.shop-buy-button-empty span,
+.f-notification,
+.unique-buy-btn,
+.raid-boss-progress-wining,
+.raid-boss-atributes,
+.raid-boss-atributes-item,
+.at_method_select, #at_popup button, #at_popup_potion button, #at_adventure_open, #at_potion, #at_adventure, #at_adv_cd, #at_adv_pref,
+.at_popup_body .tooltiptext, .achiev-checkmark-wrap input:checked ~ .achiev-checkmark, .settings-checkbox input:checked ~ .settings-checkbox-label {
+	border-color: #FD8E8E !important;
+}
+
+.header-navigation-item.head-lang-item:hover,
+.header-navigation-item.page_activity:hover,
+.shop-player-tickets {
+	border: none !important;
+}
+
+.Filter-select,
+.pet_grid-item:hover .pet_name .name_block,
+footer a:hover,
+.filter_tab:hover a,
+.pet_header_owner:hover .pet_header_owner-name,
+.Pagination-page,
+.battlelog-result-right span a,
+.main-h2,
+.form input,
+.form span,
+.form label,
+.slick-dots li.slick-active button:before,
+.achiev-blue-text,
+.achiev-collect-text:hover span,
+.menu-btn-wrap a,
+.player-profile-name,
+.shop-player-tickets,
+.inventory-item-counter,
+.item-popup-grid .pet_card_status_noble,
+.profile-popup-player .profile-popup-changename,
+.lang-drop,
+.raid-description-title,
+.link_cancel,
+.raid-boss-ready-title,
+.raid-boss-energy-info,
+.energy-popup-text-blue,
+.shop-buy-button-fill span,
+.at_method_select, #at_popup button, #at_popup_potion button, #at_adventure_open, #at_potion, #at_adventure, #at_adv_cd, #at_adv_pref, .reset_group:hover,
+#dcmExtras th:hover, .login-wallet-title, .wallet-input-wrap p, .group-list-desc, .group-list-title, .pet_header_details_cond.pet_group:hover, .pet_header_details_gen:hover,
+.group-list-stats div span,
+.settings-checkbox input:checked ~ .settings-checkbox-text {
+	color: #FD8E8E !important;
+}
+
+.pet_grid-item .line_button_.disabled,
+.pet_card-details .line_button_.disabled {
+	border-radius: 5px !important;
+}
+
+.line_button_.disabled {
+	color: #9F9F9F !important;
+}
+
+.pet_grid-item .pattern_block, .quick-slot-wrap {
+	border-radius: 18px !important;
+}
+
+.pet_header_name_text {
+	line-height: 1.2 !important;
+	color: white !important;
+}
+
+.group-single-btn-wrap button {
+	margin: 0 5px !important;
+	padding: 11px 16px !important;
+	border-radius: 5px !important;
+	background: #FD8E8E none !important;
+}
+
+.group-folder-grid-item .group-single-btn-wrap{
+	bottom: 2px!important;
+}
+
+.group-folder-grid-item .group-single-btn-wrap button img{
+	display: block!important;
+	left: -8px!important;
+	top: -8px!important;
+}
+
+
+.group-single-btn-wrap img {
+	filter: brightness(0.4);
+}
+
+.group-single-btn-wrap button:hover img {
+	filter: brightness(3.4);
+}
+
+.mass-send-filter {
+	right: 0;
+}
+
+.pet_header_owner-name,
+.exp_meter_text,
+.pet_card_details_item--highlight,
+.cooldown-tooltip h4,
+.cooldown_tooltip_parent .cooldown-tooltip li.tooltip-sel,
+.pet_status,
+.line_secetion_subheader,
+.pet_bid-box-title,
+.pet_bid-box-subtitle,
+.AuctionGraph-price-fee,
+.blue_emp,
+.bold,
+.battlelog-round-wrap .round_header span,
+.battlelog-result-left span,
+.board-sel a,
+.board-self a,
+.board-self .board-item-amount,
+.board-self .board-item-rank,
+.main-h1,
+.dots,
+.subtitule.gray,
+.flex-extra-2 .how-bid-text p,
+.slick-dots li button:before,
+.adventure-reports-head p,
+.all_attribute_item,
+.cutie-container,
+.accordion p,
+.battlelog-pet-stats-block .stat_block_number,
+.battlelog-round-result,
+.battlelog-round-wrap .battlelog-action-kind-atk,
+.battlelog-round-wrap .battlelog-action-kind-def,
+.battle-result-vs,
+.battlelog-action-descr,
+.battlelog-reward-grid p,
+.battle-xp-reward,
+.paw-shop-item .shop-item-data span,
+.unique-cutie-sale span,
+.unique-cutie-sale small,
+.raid-energy-numbers,
+.raid-description-text,
+.likes-count,
+.pet_header_ownerActions .cancel_but:hover .link_cancel,
+.achiev-box span,
+.shop-popup-item-container .shop-item-data span,
+.energy-popup-footer-desc i,
+.energy-popup-flash,
+.wallet_rt_gas_price div, .wallet_rt_gas_limit div,
+.settings-header,
+.settings-form p,
+.settings-subheader,
+.create-new-group-title,
+.group-list-single-wrap > i:hover,
+.advPopupNoOverlay div,
+.group-adventure-select p,
+.all-attr-group-title{
+	color: white !important;
+}
+
+
+
+.attr_icon.attr_unique {
+	filter: brightness(2);
+	border-color: #6B6B72;
+}
+
+.link_cancel {
+	text-decoration: none !important;
+}
+
+.exp_meter_text {
+	text-shadow: none !important;
+}
+
+.c100 span,
+.adventure_raidboss_banner .attr_unique {
+	color: #2A2825 !important;
+}
+
+.Transaction-item--transfer, .pet-official-info, .pet-official-desc {
+	color: #82817D !important;
+}
+
+.stat_defenceBonus {
+	height: 31px !important;
+}
+
+.pet_name {
+	padding-right: 0 !important;
+}
+
+.c100:first-of-type .bar,
+.c100:first-of-type .fill,
+.battlelog-action-descr {
+	background: #5A8FB0 !important;
+}
+
+.c100:nth-of-type(2) .bar,
+.c100:nth-of-type(2) .fill,
+.lottery-table-header li {
+	background: #55BA5D !important;
+}
+
+.c100:nth-of-type(3) .bar,
+.c100:nth-of-type(3) .fill {
+	background: #CA302C !important;
+}
+
+.c100:nth-of-type(4) .bar,
+.c100:nth-of-type(4) .fill,
+.raid-energy-fill,
+.cutie-level-type-noble {
+	background: #EFB422 !important;
+}
+
+.raid-energy-fill {
+	height: 33px !important;
+}
+
+.item_slot_empty div {
+	filter: grayscale(100) !important;
+}
+
+.popup-body .empty-pet-list-text {
+	background: transparent !important;
+}
+
+.item_slot,
+.attr_icon:hover,
+.ItemCard-image,
+.adv_pet_items .item_slot,
+.board-main .board-sidemenu,
+.item-popup-grid .pet_grid-item .card-wrapper > .bg_block,
+.card-wrapper .pet_block.bg_block,
+.page_item_sell .Container.Container--full,
+.battlelog-reward-grid .ItemCard,
+.achievement-item-box.completed .achievement-item-points,
+.calendar-day-popup-item,
+.craft-popup .craft-popup-image,
+.craft-popup-requirements-item,
+.shop-popup-item-container,
+option.tooSmall,
+#title-tip {
+	background-color: #595959 !important;
+}
+
+.battlelog-popup-username img,
+.floating-discord,
+.floating-telegram,
+.page_mymarket .mob-item-market-button,
+.page_achievements_my .profile-back,
+.exp_level_text {
+	display: none !important;
+}
+
+.page_mymarket .item-market-row .cutie-col-2,
+.page_mymarket .item-market-header-row .cutie-col-2 {
+	width: 25% !important;
+}
+
+.floating-lottery img:hover {
+	filter: brightness(1.1) !important;
+}
+
+.lottery-player {
+	text-overflow: ellipsis !important;
+	overflow: hidden !important;
+}
+
+.exp_block .exp_level {
+	position: absolute !important;
+	left: calc(50% - 60px) !important;
+	border-bottom-left-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+	border-top-left-radius: 24px !important;
+	border-top-right-radius: 24px !important;
+	top: -33px !important;
+	width: 120px !important;
+	height: 35px !important;
+	line-height: 35px !important;
+	background: transparent !important;
+	border: 2px solid #595959 !important;
+	font-size: 19px !important;
+	font-weight: normal !important;
+	padding: 0 !important;
+	color: white !important;
+}
+
+.mappedGenom span:hover {
+	background: white;
+	padding: 0 3px;
+}
+
+.mm_power svg {
+	filter: none !important;
+}
+
+.stat_green {
+	color: #55BA5D !important;
+}
+
+.icon_gemoe,
+.stat_block_icon:not(.stat_air):not(.stat_earth):not(.stat_water):not(.stat_energy):not(.stat_fire):not(.stat_elements), .raid-boss-power img, .eth_icon_28,
+.token-img-item, .adv-icon-level {
+	filter: brightness(3) !important;
+}
+
+.create-new-group-title img, .pet-official-info img {
+	filter: brightness(4);
+}
+
+.price_icon .eth_icon_16 {
+	filter: brightness(14);
+}
+
+.eos_icon_16 {
+	vertical-align: text-bottom !important;
+	filter: brightness(10) !important;
+}
+
+.eos_icon_28 {
+	filter: brightness(10) !important;
+}
+
+.ready_adventure_filter_bar .filter_header_toggle {
+	margin-top: 0 !important;
+	right: 0 !important;
+	left: auto !important;
+}
+
+.baner_adventure_but_send .disabled_ {
+	padding: 8px 12px !important;
+	background: none !important;
+}
+
+.battle-log-view-more-button {
+	border-color: #CBCBCB !important;
+	text-align: left !important;
+	line-height: 40px !important;
+	padding-right: 40px !important;
+	border-radius: 5px !important;
+}
+
+.pet_bid-action .line_button_,
+.adventure_but,
+.battlelog-close-report {
+	border: 2px solid #CBCBCB !important;
+	padding: 10px 30px !important;
+}
+
+.battlelog-close-report,
+.shop-item-data {
+	padding: 16px !important;
+}
+
+.adventure_but {
+	padding-left: 70px !important;
+}
+
+.icon_processed {
+	right: 10px !important;
+}
+
+.helloween-container .unique-clock .time {
+	width: 66px !important;
+}
+
+.helloween-container .card-wrapper .pet_block.bg_block.paw-shop-item, .helloween-container .card-wrapper .pet_block.bg_block.paw-shop-item .shop-item-data {
+	background-color: rgba(89, 89, 89, 0.5) !important;
+}
+
+.pet_like,
+.battlelog-result-glow,
+.unique-content-wrap,
+.helloween-container .card-wrapper .pet_block.bg_block.paw-shop-item .pet_card_image, .crafting-container .pet_card_image, .crafting-container .shop-item-data,
+.crafting-container .paw-shop-buttons .shop-buy-button-fill span, .group-list-wrap, .quest_craft_requirement_wrap {
+	background: none !important;
+}
+
+.calendar-day-popup-item span {
+	width: 50px !important;
+	border-radius: 5px !important;
+	background: #262626 !important;
+	color: #FD8E8E !important;
+}
+
+.page_quest_callendar .popup-panel .line_button_ {
+	max-width: 300px;
+	padding: 6px !important;
+	margin-top: 15px !important;
+	width: auto !important;
+	height: auto !important;
+}
+
+.quest_day_item span {
+	background: rgba(28, 28, 28, 0.2) !important;
+	color: #E88383 !important;
+}
+
+/*.w-form{
+	width: 62%;
+}*/
+.baner_adventure_but_send {
+	margin-right: -20px !important;
+}
+
+.adv_pet_items {
+	top: 25px !important;
+}
+
+.adv_pet_items .item_slot {
+	width: 70px !important;
+	height: 70px !important;
+}
+
+.auction-graph-container,
+.main-menu-wrap > a svg,
+.battlelog-action-s-r .battlelog-action-descr.blv_3 img[src$="power.svg"][src$="defence.svg"][src$="attack.svg"],
+.icon_sell, .menu-blue-sword, .group-popup-hide, .wallet-use-note, .pet_section .item_slot_empty.active_slot:after, .pet_section .item_slot.active_slot:after {
+	filter: hue-rotate(140deg) !important;
+}
+
+.battlelog-round-result {
+	width: 100% !important;
+	text-align: center !important;
+	font-size: 24px !important;
+}
+
+.lottery-item .name_block {
+	width: 100% !important;
+}
+
+.main-cta-button:hover,
+.btn_blue:hover,
+.blueBtn:hover,
+.value-icon,
+.shop-buy-button-fill span:hover,
+#noAchieved:hover,
+.wallet_popup,
+.energy-popup-footer,
+.energy-popup-wrap,
+.wallet_popup_body {
+	background: #262626 !important;
+	color: white !important;
+}
+
+.wallet-buy-button {
+	padding: 0px 15px !important;
+	border-radius: 5px !important;
+	color: #FD8E8E !important;
+	border: 1px solid #FD8E8E !important;
+}
+
+.slot-bg-wrap img {
+	filter: grayscale(1) !important;
+}
+
+.current-bid {
+	color: white !important;
+	border-color: white !important;
+}
+
+.battle-log-view-more-button {
+	color: #FD8E8E !important;
+	background-color: transparent !important;
+	border-color: #FD8E8E !important;
+	text-align: center !important;
+	line-height: 45px !important;
+}
+
+.profile-popup {
+	box-shadow: 0 1px 6px 0 rgb(253, 142, 142) !important;
+}
+
+.new_raid-battle-button{
+	box-shadow: 0 0 14px 0 rgb(253, 142, 142), 0 2px 12px 0 #DC6656;
+}
+
+.player-profile-name span {
+	color: white !important;
+	font-size: 23px !important;
+	padding-left: 0 !important;
+}
+
+.pet_card .inventory-item-counter,
+.item-popup-grid .pet_card_status_noble {
+	width: 50px !important;
+	border-radius: 5px !important;
+	right: 10px !important;
+	background: #262626 !important;
+	font-weight: normal !important;
+}
+
+.item-popup-grid .pet_card_status_noble {
+	text-align: center;
+	left: auto;
+	width: 40px !important;
+	border-radius: 5px !important;
+	background: #262626 !important;
+}
+
+.page_lottery .header-navigation .page_pets_my {
+	border: none !important;
+	color: #CDCDCD !important;
+}
+
+.pet_header_ownerActions .cancel_but {
+	height: 42px !important;
+	line-height: 2 !important;
+}
+
+.reward-item-count {
+	background: #FD8E8E !important;
+	color: #1C1C1C !important;
+	font-weight: bold !important;
+	border: none !important;
+}
+
+.popup-panel input:not([type=submit]) {
+	color: #1C1C1C !important;
+}
+
+.rewardBoxLight {
+	background-color: white;
+}
+
+.pet_header_ownerActions .cancel_but:hover .icon_sell, .playableMobile img, .playableDesktop img {
+	filter: brightness(3) !important;
+}
+
+.page_pets_adventure_select .adventure_SnowyMountain:not(.popup_adventure_bg), .page_pets_adventure_select .adventure_BloodMoonForest:not(.popup_adventure_bg) {
+	background-size: cover !important;
+	background-position-x: -310px !important;
+}
+
+.page_pets_adventure_select .adventure_IvoryTower:not(.popup_adventure_bg) {
+	background-size: cover !important;
+	background-position-x: -290px !important;
+}
+
+.page_pets_adventure_select .adventure_TheDesert:not(.popup_adventure_bg) {
+	background-size: cover !important;
+	background-position-x: -430px !important;
+}
+
+.page_pets_adventure_select .adventure_Metropolis:not(.popup_adventure_bg) {
+	background-size: cover !important;
+	background-position-x: -80px !important;
+}
+
+.page_pets_adventure_select .adventure_Ghetto:not(.popup_adventure_bg) {
+	background-size: cover !important;
+	background-position-x: 940px !important;
+}
+
+.page_pets_adventure_select .adventure_GatesOfBabylon:not(.popup_adventure_bg) {
+	background-size: cover !important;
+	background-position-x: -230px !important;
+}
+
+.battlelog-popup-imageblock .pattern_block .pet_card_image {
+	left: 0 !important;
+	top: 0 !important;
+	-webkit-animation-name: bounceInLeft !important;
+	animation-name: bounceInLeft !important;
+	-webkit-animation-duration: 1.2s !important;
+	animation-duration: 1.2s !important;
+	-webkit-animation-fill-mode: both !important;
+	animation-fill-mode: both !important;
+}
+
+.battlelog-popup-userblock-right .pattern_block .pet_card_image {
+	-webkit-animation-name: bounceInRight !important;
+	animation-name: bounceInRight !important;
+	-webkit-animation-duration: 1.2s !important;
+	animation-duration: 1.2s !important;
+	-webkit-animation-fill-mode: both !important;
+	animation-fill-mode: both !important;
+}
+
+.battlelog-popup-arenaHeader {
+	height: 98px !important;
+	top: calc(50% - 49px) !important;
+	left: calc(50% - 49px) !important;
+	-webkit-animation-name: spin !important;
+	animation-name: spin !important;
+	-webkit-animation-duration: 1s !important;
+	animation-duration: 1s !important;
+	-webkit-animation-fill-mode: both !important;
+	animation-fill-mode: both !important;
+	animation-delay: 1.2s !important;
+}
+
+.battlelog-popup-arenaHeader img {
+	top: 59% !important;
+}
+
+.loading_ani,
+.popup-panelBg {
+	background: rgba(28, 28, 28, 0.9) !important;
+}
+
+.eth_icon {
+	background-image: url(https://blockchaincuties.co/static/landing/eth.svg) !important;
+	animation: rotating 3s linear infinite !important;
+	width: 250px !important;
+	height: 250px !important;
+	background-size: contain !important;
+	filter: grayscale(0.7) !important;
+}
+
+.battle-log-image {
+	border: none !important;
+	padding: 4px !important;
+}
+
+.cutie-level {
+	margin: 8px auto 5px auto !important;
+	width: 25px !important;
+	height: 25px !important;
+	line-height: 25px !important;
+	font-size: 15px !important;
+}
+
+.cutie-level-wrap {
+	background: #222222 !important;
+	height: 42px !important;
+	margin: 0 auto !important;
+	position: absolute !important;
+	width: 40px !important;
+	left: 4px !important;
+	top: 4px !important;
+	border-top-left-radius: 12px !important;
+	border-top-right-radius: 12px !important;
+}
+
+.cutie-level-wrap.cutie-level-tribute {
+	background: linear-gradient(#8DDAFD 10%, #222222 90%) !important;
+}
+
+.cutie-level-wrap.cutie-level-unique {
+	background: linear-gradient(#EFB323 10%, #222222 90%) !important;
+}
+
+.cutie-level-wrap:after,
+.cutie-level-wrap:before,
+.cutie-level-type-noble:before,
+.cutie-level-type-noble:after {
+	content: '' !important;
+	position: absolute !important;
+	border-top: 15px solid #222222 !important;
+	height: 0 !important;
+	width: 0 !important;
+	top: 99% !important;
+}
+
+.cutie-level-text {
+	top: -3px;
+	z-index: 1;
+}
+
+.cutie-level-text-noble {
+	color: inherit !important;
+}
+
+.cutie-level-wrap.cutie-level-unique .cutie-level:before {
+	border-right: 17px solid transparent !important;
+	left: 12px !important;
+	top: 37px !important;
+}
+
+.cutie-level-wrap.cutie-level-unique .cutie-level:after {
+	border-left: 17px solid transparent !important;
+	right: 13px !important;
+	top: 37px !important;
+}
+
+.cutie-level-wrap:after {
+	border-left: 40px solid transparent !important;
+	right: 0px !important;
+}
+
+.cutie-level-wrap:before {
+	border-right: 40px solid transparent !important;
+	left: 0px !important;
+}
+
+.blogPressBox, .partnersBox {
+	background: white !important;
+	border-radius: 25px !important;
+	margin-right: 15px !important;
+}
+
+.partnersBox img {
+	max-width: 120px !important;
+}
+
+
+.etherGasPrices .gasUpdated {
+	text-align: center !important;
+	font-style: italic !important;
+	font-size: 16px !important;
+	margin-top: 15px !important;
+}
+
+.at_xmas {
+	border-color: #F38888 !important;
+}
+
+.at_xmas button img {
+	filter: invert(1);
+}
+
+#at_popup, #at_popup_potion, #dcmExtras {
+	background: rgba(26, 26, 26, .96) !important;
+}
+
+#dcmExtras .extras_header {
+	background: #1C1C1C;
+}
+
+
+#at_msg, #at_msg_pot, .at_tooltip, .landingTitle, .blogLatestText, .typesDesc, .typesBoxDesc, .typesBoxTitle, .drivenDesc, .playableTable tr td, .teamDesc, .teamMoreText,
+.friendsDesc, .allowed-tokens-price-wrap li, .pet-buy-from-box-title, .pet-buy-title {
+	color: white !important;
+}
+
+#at_xmas:hover:not(:disabled), .resetFriendList button:hover {
+	background-color: #FD8D8E;
+}
+
+.methods {
+	background-color: #3F3F3F !important;
+	color: #CDCDCD !important;
+}
+
+.exp_block .at_tooltip, .raid-pet-atribute.report-raid-pet-atribute {
+	color: black !important;
+}
+
+.raid-pet-atribute.report-raid-pet-atribute, .page_pet .mob-use-item-popup .item-popup-grid .pet_card {
+	background: #595959 !important;
+}
+
+.blockchain-radio-label.promo-radio-label {
+	padding: 5px 0 !important;
+	box-shadow: none;
+	border: 1px solid #FD8D8E !important;
+}
+
+#extraMenus {
+	color: #CBCBCB !important;
+	background: rgba(89, 89, 89, .5) !important;
+}
+
+
+.qm_toggle {
+	background: rgba(89, 89, 89, 0.5) !important;
+}
+
+.new-friend-button .btn, .single-page-blue-btn, .blockchain-buy-btn {
+	border-color: #FD8E8E !important;
+	color: #FD8E8E !important;
+}
+
+.new-friend-button .btn:hover, .wallet-buy-button:hover {
+	background-color: #FD8E8E !important;
+	color: white !important;
+}
+
+.add-friend input,
+.shop-buy-button-fill .paw-shop-button-blue, .tooltiptext .tooltipInner h3, .tooltiptext .tooltipInner, .pet_section .item_slot_empty.active_slot:hover, .pet_section .item_slot.active_slot:hover {
+	border-color: #FD8E8E !important;
+}
+
+#friendz::-webkit-scrollbar-track, #dcmExtras::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3) !important;
+	box-shadow: 0 1px 0 #262626 !important;
+	background-color: #2B2B2B !important;
+}
+
+#friendz::-webkit-scrollbar, #dcmExtras::-webkit-scrollbar {
+	width: 10px !important;
+	box-shadow: 0 1px 0 #262626 !important;
+	background-color: #2B2B2B !important;
+}
+
+#friendz::-webkit-scrollbar-thumb, #dcmExtras::-webkit-scrollbar-thumb {
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3) !important;
+	background-color: #FD8E8E !important;
+
+	-moz-transition: background-color 1s linear !important;
+	-webkit-transition: background-color 1s linear !important;
+	transition: background-color 1s linear !important;
+}
+
+#extraMenus li:hover a, #extraMenus li:hover:before,
+.page_inventory #extraMenus .qm_inv:before, .page_inventory #extraMenus .qm_inv a,
+.page_raidboss #extraMenus .qm_raid:before, .page_raidboss #extraMenus .qm_raid a,
+.page_items_sell #extraMenus .qm_mark:before, .page_items_sell #extraMenus .qm_mark a,
+.page_shop #extraMenus .qm_paw:before, .page_shop #extraMenus .qm_paw a, .page_quest_craft #extraMenus .qm_craft a,
+.friend span:hover, .friend i:hover, .add-friend i:hover, .wallet_balance,
+.wallet_btn_nocolor, .cutie-level-text-normal, #at_msg a, #at_msg_pot a, .battle-log-date, .equiped_item_title, .empty-pet-list-desc,
+.advPopupNoOverlay:hover div, .pet-official-info span, .all_attributes_page_title, .all_attributes_page_total {
+	color: #FD8E8E !important;
+}
+
+#extraMenus a:after, #extraMenus li:before, #extraMenus li:not(:last-of-type):after {
+	color: #CBCBCB !important;
+	border-color: #CBCBCB !important;
+}
+
+.etherGasPrices {
+	color: #CBCBCB !important;
+	background: rgba(89, 89, 89, .5) !important;
+}
+
+#noAchieved {
+	position: absolute !important;
+	font-size: 15px !important;
+	right: -22px !important;
+	top: calc(50% - 13px) !important;
+	background: #FD8E8E !important;
+	color: white !important;
+	width: 240px !important;
+}
+
+
+.slider-pet-wrap {
+	width: 95% !important;
+}
+
+.quick-slot-mobile {
+	height: 28px;
+}
+
+.quick-slot-btn {
+	background: none !important;
+	width: 28px;
+	height: 28px;
+	top: -1px;
+}
+
+
+.quick-slot-btn img {
+	filter: brightness(2) !important;
+}
+
+.pet_add_buttons .line-button-adventure-icon {
+	width: 100% !important;
+	height: 100% !important;
+	top: 0 !important;
+	left: 0 !important;
+	border-radius: 4px;
+	z-index: 1;
+	opacity: 0.4;
+}
+
+
+/*@-moz-document url("https://blockchaincuties.co/pet/4444"), url("https://blockchaincuties.com/pet/4444") {
+.pet_block.bg_block,
+.exp_filled.bg_block {
+    background-image: -webkit-radial-gradient(circle farthest-corner at 69% 100%, #8c5cffb5, #000000)!important;
+    background-image: radial-gradient(circle farthest-corner at 69% 100%, #8c5cffb5, #000000)!important;
+}
+.pet_block.bg_block .pattern_block {
+    background-image: url(https://blockchaincuties.co/static/bg/royal14.svg)!important;
+}
+}
+
+@-moz-document url("https://blockchaincuties.co/pet/4948"), url("https://blockchaincuties.com/pet/4948") {
+.pet_block.bg_block,
+.exp_filled.bg_block {
+    background-image: -webkit-radial-gradient(circle farthest-corner at 69% 100%, #62d8f3, #225eaf)!important;
+    background-image: radial-gradient(circle farthest-corner at 69% 100%, #62d8f3, #225eaf)!important;
+}
+.pet_block.bg_block .pattern_block {
+    background-image: url(https://blockchaincuties.co/static/bg/royal16.svg)!important;
+}
+}
+
+@-moz-document url("https://blockchaincuties.co/pet/2430"), url("https://blockchaincuties.com/pet/2430") {
+.pet_block.bg_block,
+.exp_filled.bg_block {
+    background-image: -webkit-linear-gradient(225deg, #060b1a, #a5b3ff)!important;
+    background-image: linear-gradient(225deg, #060b1a, #a5b3ff)!important;
+}*/

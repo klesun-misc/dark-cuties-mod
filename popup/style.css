@@ -1,0 +1,120 @@
+
+body {
+  min-width: 20rem;
+  background: #262626;
+  border: 1px solid white;
+  margin: 0;
+}
+#app{    
+	background: linear-gradient(#000000, rgba(180, 1, 1, 0.78));
+	text-align: center;
+    padding: 10px;
+    color: white;
+	overflow-x: hidden;
+}
+::-moz-selection{ 
+	background: transparent!important; 
+}
+::selection{ 
+	background: transparent!important; 
+}
+.logo {
+  margin-top: 1rem;
+  text-align: center;
+}
+.logo img {
+    width: 4rem;
+}
+.module-checker{
+	margin-top: 10px;
+    margin-left: 30px;
+    text-align: left;
+	position: relative;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;    
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 40px;
+}
+
+
+.module-checker input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.module-checker:hover, #coffeeTrx:hover, #coffeeEth:hover{
+	cursor: pointer;
+}
+
+
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #262626;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.module-checker input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.module-checker .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#status{
+	margin: 10px 0 0;
+    height: 30px;
+    line-height: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+	text-align: center;
+}
+
+#save{
+	width: 240px;
+	padding: 5px 15px;
+    background: #262626;
+    border-radius: 5px;
+    color: white;
+    line-height: 1.5;
+    border: none;
+	outline: none;
+	text-align: center;
+}
+
+#save:hover, .module-checker:hover .checkmark{
+	background: #2e2e2e;
+	cursor: pointer;
+}
+
+#coffee{
+	margin-top: 10px;
+	text-align: center;
+}

@@ -1,0 +1,66 @@
+v0.9.59
+
+- fixed adventure recommenderexp value on cuties list hover
+- added birthday notification on the cutie page, if cutie has birthday :)
+- modified "adventures to level up" counter, to check if your cutie has preferred adventure. If it has, it counts with that instead of the highest adventure
+
+v0.9.58
+
+- Fixed everything (?) to match the latest "Batch-sending" BC update
+- added player profile images to the header and to profile page
+- merged adventure recomennder to new BC "Adventures" block
+- Modified cuties and adventures card sizes to show more of the cutie
+- added cutie element strength value to the element strength icon everywhere (?)
+- if a cutie is 6 or higher, it will get marked as strong with a golden border (helps in market)
+- if you hover that icon, you'll see some data of the cutie on "my cuties", "adventures" and "raid boss" pages
+- added MMP (Base Match making power : power*1.6 + attack + defense + evasion/4 + luck/4) to the adventure cooldowns
+- removed equipment bonuses module, for being incorrect
+- some other bugfixes, style changes, etc.
+
+v0.9.54
+- Added Item Bonus list to Quick Menu (you can also access it by pressing "?" on your keyboard)
+You can see all full set bonuses , and sort them by clicking on the name of the column (Attack / Defense / etc)
+- Some fixes
+
+v0.9.52
+- added egg shake effect to unborn cuties, and placed the egg by the foot of the parent cuties
+
+v0.9.49
+
+- Caught up with latest cutie update (1.69+)
+- Added Raid Filtering (on the adventure page if you have raid energy, a "send to raid" button will appear, letting you filter your cuties there and then send)
+- Changed premium server from dappsify.com to dcm.verychard.com
+- Added Auto Drinker to Premium Auto Tools! (also including preferred adventures and adventure cooldowns for each cutie you own)
+- Extended Auto Sender's features
+- Updated MMP calculation to the latest (power*1.6 + attack + defense + evasion/4 + luck/4), and added MMP for all adventures on "Adventure strength" section of cutie page!
+- small fixes
+
+v0.9.47
+- Added Valentine adventure to Auto Sender
+
+v0.9.42
+- Matching BC's Chinese New Year update!
+- Added Auto Sender! Send all your cuties to the adventures where they are strongest by click! You want to farm a specific adventure? It got you covered. You can even save your newborn cuties from sending out, and the black list helps you block out selected cuties from adventuring.
+(auto sender is a premium feature for a one-time fee. see details after install)
+- Fixed currency changer issues on selling
+
+v0.9.38
+- Bugfixes
+- Changed Auto Tools Xmas sender to select cuties from default adventure list, instead of "Least Cooldown" (because that is only for regular adventure cooldown, and not events)
+
+v0.9.36
+
+- Some bugfixes
+- Added "adventures to level up" count on cutie page
+
+v0.9.35
+
+- Many bugfixes
+- Added help to Auto Tools xmas sender
+- Added reset FriendList option if it cannot load.
+- Added new module toggles to DCM options
+
+v0.9.32
+
+- Added Auto Sender!! You can access it from Adventure tab. It is trying to send 50 of your cuties sorted by "Least cooldown", and let you know about the results.
+- Updated Currency Changer to USD only, and now works with TRON and EOS too
